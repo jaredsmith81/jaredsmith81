@@ -1,6 +1,6 @@
-## :wave: Hi there
-## :briefcase: I'm Head of Information Technology at [Aunty Grace](https://www.auntygrace.com.au)
-## :rocket: We're a home care company who does things different (different = smart tech to make us more efficent/accurate than the other guys)
+:wave: Hi there
+:briefcase: I'm Head of Information Technology at [Aunty Grace](https://www.auntygrace.com.au)
+:rocket: We're a home care company who does things different (different = smart tech to make us more efficent/accurate than the other guys)
 
 <!--
 **jaredsmith81/jaredsmith81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
